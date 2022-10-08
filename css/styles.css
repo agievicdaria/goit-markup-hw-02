@@ -171,21 +171,12 @@ body {
   font-style: normal;
 }
 
-.address-link-maps:hover,
-.address-link-maps:focus {
-  text-decoration: underline;
-}
-
 .address-link {
   font-size: 14px;
   line-height: 1.71;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
-}
-
-.address-link:hover,
-.address-link:focus {
-  text-decoration: underline;
+  font-style: normal;
 }
 
 /* Projects */
