@@ -100,6 +100,12 @@ body {
   background-color: var(--accent-color);
 }
 
+.hero-btn:hover,
+.hero-btn:focus {
+  color: var(--accent-color);
+  background-color: var(--additional-color);
+}
+
 /* Features */
 
 .features-item-title {
