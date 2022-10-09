@@ -100,12 +100,6 @@ body {
   background-color: var(--accent-color);
 }
 
-.hero-btn:hover,
-.hero-btn:focus {
-  color: var(--accent-color);
-  background-color: var(--additional-color);
-}
-
 /* Features */
 
 .features-item-title {
@@ -182,6 +176,7 @@ body {
 /* Projects */
 
 .projects-btn {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
